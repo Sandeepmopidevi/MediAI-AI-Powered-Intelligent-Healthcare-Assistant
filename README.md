@@ -12,7 +12,7 @@ MediAI is an AI-powered healthcare assistant that predicts potential diseases ba
 
 ## **📁 Project Structure**  
 
-📂 **Frontend** → `healthcare-assistant` (React.js)  
+📂 **Frontend** → (React.js)  
 📂 **Backend** → Flask API for symptom analysis and disease prediction  
 
 ---
